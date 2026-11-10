@@ -37,7 +37,7 @@ navigation:
   - text: Projects
     url: /Projects/
   - text: Download
-    url: https://margaritabuitrago.github.io/Scriptor/downloads/Scriptor.zip
+    url: https://margaritabuitrago.github.io
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
