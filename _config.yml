@@ -37,7 +37,8 @@ navigation:
     url: /CV/
   - text: Projects
     url: /Projects/
-  - text: Download
+  - text: Publications
+    url: /Publications/
     url: https://margaritabuitrago20-gif.github.io
 
 # The shortname for your Disqus site to enable comments.
