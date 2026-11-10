@@ -18,7 +18,7 @@ description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://margaritabuitrago20-gif.github.io"
+url: "https://margaritabuitrago-gif.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -39,7 +39,7 @@ navigation:
     url: /Projects/
   - text: Publications
     url: /Publications/
-    url: https://margaritabuitrago20-gif.github.io
+    url: https://margaritabuitrago-gif.github.io
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
