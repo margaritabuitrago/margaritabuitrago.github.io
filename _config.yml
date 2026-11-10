@@ -54,7 +54,7 @@ footer:
 plugins:
   - jekyll-paginate
 
-# http://jekyllrb.com/docs/pagination/
+# https://margaritabuitrago.github.io
 paginate: 3
 paginate_path: '/page:num/'
 
